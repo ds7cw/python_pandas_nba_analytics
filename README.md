@@ -11,8 +11,17 @@ notebook==7.3.2
 numpy==2.2.3
 openpyxl==3.1.5
 pandas==2.2.3
+plotly==6.0.0
 requests==2.32.3
 ```
+
+---
+
+### Useful Links
+
+> https://pandas.pydata.org/docs/reference/index.html
+
+> https://plotly.com/python-api-reference/
 
 ---
 
@@ -31,6 +40,11 @@ pip install notebook
 Create a new Jupyter Notebook file (in VS Code command palette):
 ```
 >create: New Jupyter Notebook
+```
+
+Install plotly express:
+```bash
+pip install plotly[express]
 ```
 
 ---
