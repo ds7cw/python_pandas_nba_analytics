@@ -176,4 +176,4 @@ cython_debug/
 # *.xlsx
 
 # Large JSON files
-gsw_box_scores_full.json
+# gsw_box_scores_full.json
